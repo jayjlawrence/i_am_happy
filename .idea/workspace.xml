@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46d70f9f-93e7-4f69-8232-d68c41040c63" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/javascripts/people.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/javascripts/people.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -21,15 +18,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/i_am_happy@Development__i_am_happy.rcov" NAME="Development: i_am_happy Coverage Results" MODIFIED="1528735019890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="i_am_happy" />
+    <SUITE FILE_PATH="coverage/i_am_happy@Development__i_am_happy.rcov" NAME="Development: i_am_happy Coverage Results" MODIFIED="1528736196707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="i_am_happy" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-591">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="71">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -37,13 +34,18 @@
       <file leaf-file-name="people.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/people.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="75">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="people.self-6f93cccfecc3acdb2f7be7a7958f62b91b97e2eee179fc734b0ca88409868498.js" pinned="false" current-in-tab="true">
+        <entry file="http://0.0.0.0:3000/assets/people.self-6f93cccfecc3acdb2f7be7a7958f62b91b97e2eee179fc734b0ca88409868498.js?body=1">
+          <provider selected="true" editor-type-id="httpFileEditor" />
         </entry>
       </file>
       <file leaf-file-name="people.self-ef9c25f84ab88f61e2d11f612fd20c857a760fce402f72dda8e4974ca8f20be8.js" pinned="false" current-in-tab="false">
@@ -60,8 +62,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/assets/javascripts/.gitignore" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/people.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/people.js" />
       </list>
     </option>
   </component>
@@ -82,9 +84,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="156" />
-    <option name="y" value="23" />
-    <option name="width" value="1234" />
+    <option name="x" value="511" />
+    <option name="y" value="86" />
+    <option name="width" value="942" />
     <option name="height" value="679" />
   </component>
   <component name="ProjectView">
@@ -258,30 +260,29 @@
       <option name="presentableId" value="Default" />
       <updated>1528734955299</updated>
       <workItem from="1528734956829" duration="486000" />
-      <workItem from="1528735465904" duration="302000" />
+      <workItem from="1528735465904" duration="1096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="788000" />
+    <option name="totallyTimeSpent" value="1582000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="156" y="23" width="1234" height="679" extended-state="0" />
-    <editor active="true" />
+    <frame x="511" y="86" width="942" height="679" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32976446" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5025329" side_tool="true" visible="true" weight="0.2353952" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.505036" side_tool="true" weight="0.4347079" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49746707" visible="true" weight="0.2353952" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4964029" weight="0.2353952" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.45182014" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32976446" />
       <window_info anchor="right" id="Remote Host" order="4" />
-      <window_info active="true" content_ui="combo" x="834" y="82" width="249" height="934" id="Project" order="0" sideWeight="0.49571735" visible="true" weight="0.17197986" />
+      <window_info content_ui="combo" x="834" y="82" width="249" height="934" id="Project" order="0" sideWeight="0.49571735" visible="true" weight="0.22777778" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database" order="12" />
       <window_info auto_hide="true" id="Structure" order="1" side_tool="true" weight="0.17430227" />
       <window_info id="Favorites" order="2" sideWeight="0.50428265" side_tool="true" weight="0.13112165" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49676898" weight="0.4364261" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49496403" visible="true" weight="0.4347079" />
       <window_info anchor="bottom" id="Tail" order="11" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -333,8 +334,14 @@
           <url>file://$PROJECT_DIR$/app/assets/javascripts/people.js</url>
           <line>5</line>
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>http://0.0.0.0:3000/assets/people.self-6f93cccfecc3acdb2f7be7a7958f62b91b97e2eee179fc734b0ca88409868498.js?body=1</url>
+          <line>5</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -368,22 +375,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/people.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-591">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
+    <entry file="http://0.0.0.0:3000/assets/people.self-6f93cccfecc3acdb2f7be7a7958f62b91b97e2eee179fc734b0ca88409868498.js?body=1">
+      <provider selected="true" editor-type-id="httpFileEditor" />
     </entry>
   </component>
 </project>

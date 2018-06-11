@@ -3,7 +3,7 @@
 // You can use CoffeeScript in this file: http://coffeescript.org/
 
 function happy() {
-    alert("I love my 'will-to-live' sucking company.");
+    alert("I love my company.");
 }
 
 $(document).ready( function() {
