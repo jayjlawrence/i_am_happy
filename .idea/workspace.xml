@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46d70f9f-93e7-4f69-8232-d68c41040c63" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/assets/javascripts/people.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/javascripts/people.js" afterDir="false" />
-    </list>
+    <list default="true" id="46d70f9f-93e7-4f69-8232-d68c41040c63" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -31,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="people.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="people.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/people.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -43,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="people.self-6f93cccfecc3acdb2f7be7a7958f62b91b97e2eee179fc734b0ca88409868498.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="people.self-6f93cccfecc3acdb2f7be7a7958f62b91b97e2eee179fc734b0ca88409868498.js" pinned="false" current-in-tab="false">
         <entry file="http://0.0.0.0:3000/assets/people.self-6f93cccfecc3acdb2f7be7a7958f62b91b97e2eee179fc734b0ca88409868498.js?body=1">
           <provider selected="true" editor-type-id="httpFileEditor" />
         </entry>
@@ -260,15 +258,16 @@
       <option name="presentableId" value="Default" />
       <updated>1528734955299</updated>
       <workItem from="1528734956829" duration="486000" />
-      <workItem from="1528735465904" duration="1096000" />
+      <workItem from="1528735465904" duration="1267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1582000" />
+    <option name="totallyTimeSpent" value="1753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="511" y="86" width="942" height="679" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32976446" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.505036" side_tool="true" weight="0.4347079" />
@@ -277,12 +276,12 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.45182014" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32976446" />
       <window_info anchor="right" id="Remote Host" order="4" />
-      <window_info content_ui="combo" x="834" y="82" width="249" height="934" id="Project" order="0" sideWeight="0.49571735" visible="true" weight="0.22777778" />
+      <window_info active="true" content_ui="combo" x="834" y="82" width="249" height="934" id="Project" order="0" sideWeight="0.49571735" visible="true" weight="0.22777778" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database" order="12" />
       <window_info auto_hide="true" id="Structure" order="1" side_tool="true" weight="0.17430227" />
       <window_info id="Favorites" order="2" sideWeight="0.50428265" side_tool="true" weight="0.13112165" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49496403" visible="true" weight="0.4347079" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49496403" weight="0.4347079" />
       <window_info anchor="bottom" id="Tail" order="11" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -333,15 +332,11 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/app/assets/javascripts/people.js</url>
           <line>5</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>http://0.0.0.0:3000/assets/people.self-6f93cccfecc3acdb2f7be7a7958f62b91b97e2eee179fc734b0ca88409868498.js?body=1</url>
-          <line>5</line>
           <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -382,6 +377,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="http://0.0.0.0:3000/assets/people.self-6f93cccfecc3acdb2f7be7a7958f62b91b97e2eee179fc734b0ca88409868498.js?body=1">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/people.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -391,9 +389,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="http://0.0.0.0:3000/assets/people.self-6f93cccfecc3acdb2f7be7a7958f62b91b97e2eee179fc734b0ca88409868498.js?body=1">
-      <provider selected="true" editor-type-id="httpFileEditor" />
     </entry>
   </component>
 </project>
